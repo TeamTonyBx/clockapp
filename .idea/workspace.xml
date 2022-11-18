@@ -167,17 +167,17 @@
       <workItem from="1668362297365" duration="6600000" />
       <workItem from="1668394108824" duration="1133000" />
       <workItem from="1668482141855" duration="24143000" />
-      <workItem from="1668719035041" duration="10932000" />
+      <workItem from="1668719035041" duration="11150000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="51817000" />
+    <option name="totallyTimeSpent" value="52035000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1920" height="1080" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18927614" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18927614" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -189,7 +189,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.30769232" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.3979487" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />

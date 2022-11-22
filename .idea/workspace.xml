@@ -3,26 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="e372390e-e9ca-490c-86e5-743719542e70" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/clock-app/README-template.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/clock-app/clock-app-sketch/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/clock-app/preview.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/clock-app/starter-code/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/clock-app/starter-code/assets/desktop/bg-image-daytime.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/clock-app/starter-code/assets/desktop/bg-image-nighttime.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/clock-app/starter-code/assets/desktop/icon-arrow-down.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/clock-app/starter-code/assets/desktop/icon-arrow-up.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/clock-app/starter-code/assets/desktop/icon-moon.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/clock-app/starter-code/assets/desktop/icon-refresh.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/clock-app/starter-code/assets/desktop/icon-sun.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/clock-app/starter-code/assets/favicon-32x32.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/clock-app/starter-code/assets/mobile/bg-image-daytime.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/clock-app/starter-code/assets/mobile/bg-image-nighttime.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/clock-app/starter-code/assets/tablet/bg-image-daytime.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/clock-app/starter-code/assets/tablet/bg-image-nighttime.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/clock-app/starter-code/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/styles.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/main.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -47,8 +27,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/js/main.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="352">
-              <caret line="27" column="66" lean-forward="true" selection-start-line="27" selection-start-column="66" selection-end-line="27" selection-end-column="66" />
+            <state relative-caret-position="72">
+              <caret line="17" column="41" lean-forward="true" selection-start-line="17" selection-start-column="41" selection-end-line="17" selection-end-column="41" />
             </state>
           </provider>
         </entry>
@@ -91,35 +71,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="clock-app" type="b2602c69:ProjectViewProjectNode" />
-              <item name="clock-app" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="clock-app" type="b2602c69:ProjectViewProjectNode" />
-              <item name="clock-app" type="462c0819:PsiDirectoryNode" />
-              <item name="img" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="clock-app" type="b2602c69:ProjectViewProjectNode" />
-              <item name="clock-app" type="462c0819:PsiDirectoryNode" />
-              <item name="img" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="clock-app" type="b2602c69:ProjectViewProjectNode" />
-              <item name="clock-app" type="462c0819:PsiDirectoryNode" />
-              <item name="img" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="desktop" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
+      <pane id="ProjectPane" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -167,17 +119,18 @@
       <workItem from="1668362297365" duration="6600000" />
       <workItem from="1668394108824" duration="1133000" />
       <workItem from="1668482141855" duration="24143000" />
-      <workItem from="1668719035041" duration="11150000" />
+      <workItem from="1668719035041" duration="11946000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="52035000" />
+    <option name="totallyTimeSpent" value="52831000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1920" height="1080" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18927614" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18927614" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -189,7 +142,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.3979487" />
+      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.3979487" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -239,8 +192,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/js/main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="27" column="66" lean-forward="true" selection-start-line="27" selection-start-column="66" selection-end-line="27" selection-end-column="66" />
+        <state relative-caret-position="72">
+          <caret line="17" column="41" lean-forward="true" selection-start-line="17" selection-start-column="41" selection-end-line="17" selection-end-column="41" />
         </state>
       </provider>
     </entry>
